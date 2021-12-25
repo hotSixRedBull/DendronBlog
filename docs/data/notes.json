@@ -1,0 +1,600 @@
+{
+  "notes": {
+    "403": {
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "403",
+      "updated": 1640449827881,
+      "created": 1640449827881,
+      "parent": null,
+      "children": [],
+      "data": {}
+    },
+    "CdVfZRs5sCRx1X3GP2g8f": {
+      "id": "CdVfZRs5sCRx1X3GP2g8f",
+      "title": "Root",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "fname": "root",
+      "updated": 1640160972645,
+      "created": 1640160972645,
+      "parent": null,
+      "children": [
+        "ucXahbf0Pb8oo3qESnw3z",
+        "WRW2TcsJmqLN2UQmwmuX5",
+        "r21yQy76aVJ7VclacLucS"
+      ],
+      "data": {},
+      "contentHash": "81cb0d3a4e1cfa0acb3012ed2a32a820",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      }
+    },
+    "r21yQy76aVJ7VclacLucS": {
+      "id": "r21yQy76aVJ7VclacLucS",
+      "title": "Tool",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "tool",
+      "updated": 1640181450741,
+      "created": 1640181450741,
+      "parent": "CdVfZRs5sCRx1X3GP2g8f",
+      "children": [
+        "bKBKsepOTrqBPk6MVue3l"
+      ],
+      "data": {},
+      "contentHash": "8b94feb78198e176625dfae14df0f16a",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "bKBKsepOTrqBPk6MVue3l": {
+      "id": "bKBKsepOTrqBPk6MVue3l",
+      "title": "Dendron",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "tool.dendron",
+      "updated": 1640181450741,
+      "created": 1640181450741,
+      "parent": "r21yQy76aVJ7VclacLucS",
+      "children": [
+        "yJkEVBdzBpBhBIn75Oa7M",
+        "PxclDrzGSLcuth6AKovQi"
+      ],
+      "data": {},
+      "contentHash": "2e6e65d954f08f25da80ff72cb9c7933",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "PxclDrzGSLcuth6AKovQi": {
+      "id": "PxclDrzGSLcuth6AKovQi",
+      "title": "Publish",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "setup": {
+          "type": "header",
+          "text": "Setup",
+          "value": "setup",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "npm": {
+          "type": "header",
+          "text": "NPM",
+          "value": "npm",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "yaml": {
+          "type": "header",
+          "text": "YAML",
+          "value": "yaml",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        },
+        "build": {
+          "type": "header",
+          "text": "Build",
+          "value": "build",
+          "line": 34,
+          "column": 0,
+          "depth": 3
+        },
+        "publish": {
+          "type": "header",
+          "text": "Publish",
+          "value": "publish",
+          "line": 39,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "fname": "tool.dendron.publish",
+      "updated": 1640448168272,
+      "created": 1640184615528,
+      "parent": "bKBKsepOTrqBPk6MVue3l",
+      "children": [],
+      "data": {},
+      "contentHash": "6edae497a768bd82334e40d8692a335f",
+      "custom": {}
+    },
+    "yJkEVBdzBpBhBIn75Oa7M": {
+      "id": "yJkEVBdzBpBhBIn75Oa7M",
+      "title": "Multiple Vaults",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "make-a-local-vault": {
+          "type": "header",
+          "text": "Make a local vault",
+          "value": "make-a-local-vault",
+          "line": 10,
+          "column": 0,
+          "depth": 3
+        },
+        "make-a-remote-repo": {
+          "type": "header",
+          "text": "Make a remote repo",
+          "value": "make-a-remote-repo",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "change-local-vault-into-remote-repo": {
+          "type": "header",
+          "text": "Change local vault into remote repo",
+          "value": "change-local-vault-into-remote-repo",
+          "line": 17,
+          "column": 0,
+          "depth": 3
+        },
+        "how-to-update-remote-repo": {
+          "type": "header",
+          "text": "How to update remote repo",
+          "value": "how-to-update-remote-repo",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "fname": "tool.dendron.multiple-vaults",
+      "updated": 1640161752682,
+      "created": 1640161557319,
+      "parent": "bKBKsepOTrqBPk6MVue3l",
+      "children": [],
+      "data": {},
+      "contentHash": "8360177eb583a0df063b94ce80b897da",
+      "custom": {}
+    },
+    "WRW2TcsJmqLN2UQmwmuX5": {
+      "id": "WRW2TcsJmqLN2UQmwmuX5",
+      "title": "Framework",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "framework",
+      "updated": 1640447126375,
+      "created": 1640447126375,
+      "parent": "CdVfZRs5sCRx1X3GP2g8f",
+      "children": [
+        "d735jvfyzhw6LJ9U5uiMG"
+      ],
+      "data": {},
+      "contentHash": "b75109c81a683874b780f802087f5792",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "d735jvfyzhw6LJ9U5uiMG": {
+      "id": "d735jvfyzhw6LJ9U5uiMG",
+      "title": "Jekyll",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "framework.jekyll",
+      "updated": 1640447126375,
+      "created": 1640447126375,
+      "parent": "WRW2TcsJmqLN2UQmwmuX5",
+      "children": [
+        "jZtYcbMDJreFOFruPcEco"
+      ],
+      "data": {},
+      "contentHash": "e734d8d45ef94728bab9d9f648e63aae",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "jZtYcbMDJreFOFruPcEco": {
+      "id": "jZtYcbMDJreFOFruPcEco",
+      "title": "Custom Theme",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "framework.jekyll.custom-theme",
+      "updated": 1640440711378,
+      "created": 1640440670929,
+      "parent": "d735jvfyzhw6LJ9U5uiMG",
+      "children": [],
+      "data": {},
+      "contentHash": "2dcb1c8a2d4244a161fa9916fcf2a5ee",
+      "custom": {}
+    },
+    "ucXahbf0Pb8oo3qESnw3z": {
+      "id": "ucXahbf0Pb8oo3qESnw3z",
+      "title": "Daily",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "daily",
+      "updated": 1640447126378,
+      "created": 1640447126378,
+      "parent": "CdVfZRs5sCRx1X3GP2g8f",
+      "children": [
+        "kS3EuPVP1lbgWVXzDDuxW"
+      ],
+      "data": {},
+      "contentHash": "35665ce42fe93a84e1bc93e39045af35",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "kS3EuPVP1lbgWVXzDDuxW": {
+      "id": "kS3EuPVP1lbgWVXzDDuxW",
+      "title": "Journal",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "daily.journal",
+      "updated": 1640447126378,
+      "created": 1640447126378,
+      "parent": "ucXahbf0Pb8oo3qESnw3z",
+      "children": [
+        "qTp6FiUe7aQb9NKoqwf8l"
+      ],
+      "data": {},
+      "contentHash": "e9d119f45125b32228b2c006130a71cc",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "qTp6FiUe7aQb9NKoqwf8l": {
+      "id": "qTp6FiUe7aQb9NKoqwf8l",
+      "title": "2021",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "daily.journal.2021",
+      "updated": 1640447126378,
+      "created": 1640447126378,
+      "parent": "kS3EuPVP1lbgWVXzDDuxW",
+      "children": [
+        "HEWH1ostO0itvMLIP9YBs"
+      ],
+      "data": {},
+      "contentHash": "d7557d5bda933029bc6edf646ca35337",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "HEWH1ostO0itvMLIP9YBs": {
+      "id": "HEWH1ostO0itvMLIP9YBs",
+      "title": "12",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "fname": "daily.journal.2021.12",
+      "updated": 1640447126378,
+      "created": 1640447126378,
+      "parent": "qTp6FiUe7aQb9NKoqwf8l",
+      "children": [
+        "4FwlszdZ3b7vP6RHJER0O"
+      ],
+      "data": {},
+      "contentHash": "1f78e3f393b66ed1903bd9e8c78cfe4f",
+      "stub": false,
+      "custom": {
+        "stub": true
+      }
+    },
+    "4FwlszdZ3b7vP6RHJER0O": {
+      "id": "4FwlszdZ3b7vP6RHJER0O",
+      "title": "2021-12-25",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "todo": {
+          "type": "header",
+          "text": "TODO",
+          "value": "todo",
+          "line": 10,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "fname": "daily.journal.2021.12.25",
+      "updated": 1640445350005,
+      "created": 1640440752972,
+      "parent": "HEWH1ostO0itvMLIP9YBs",
+      "children": [],
+      "data": {},
+      "contentHash": "58f1625632aefa610b261f9f6d0ba4cb",
+      "custom": {
+        "traitIds": [
+          "journalNote"
+        ]
+      }
+    }
+  },
+  "domains": [
+    {
+      "id": "CdVfZRs5sCRx1X3GP2g8f",
+      "title": "Root",
+      "vault": {
+        "fsPath": "publicVault",
+        "remote": {
+          "type": "git",
+          "url": "https://github.com/hotSixRedBull/Dendron.git"
+        },
+        "name": "public vault"
+      },
+      "type": "note",
+      "desc": "",
+      "links": [],
+      "anchors": {
+        "welcome-to-dendron": {
+          "type": "header",
+          "text": "Welcome to Dendron",
+          "value": "welcome-to-dendron",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "lookup": {
+          "type": "header",
+          "text": "Lookup",
+          "value": "lookup",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "fname": "root",
+      "updated": 1640160972645,
+      "created": 1640160972645,
+      "parent": null,
+      "children": [
+        "ucXahbf0Pb8oo3qESnw3z",
+        "WRW2TcsJmqLN2UQmwmuX5",
+        "r21yQy76aVJ7VclacLucS"
+      ],
+      "data": {},
+      "contentHash": "81cb0d3a4e1cfa0acb3012ed2a32a820",
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "body": "\n# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n"
+    }
+  ],
+  "noteIndex": {
+    "id": "CdVfZRs5sCRx1X3GP2g8f",
+    "title": "Root",
+    "vault": {
+      "fsPath": "publicVault",
+      "remote": {
+        "type": "git",
+        "url": "https://github.com/hotSixRedBull/Dendron.git"
+      },
+      "name": "public vault"
+    },
+    "type": "note",
+    "desc": "",
+    "links": [],
+    "anchors": {
+      "welcome-to-dendron": {
+        "type": "header",
+        "text": "Welcome to Dendron",
+        "value": "welcome-to-dendron",
+        "line": 7,
+        "column": 0,
+        "depth": 1
+      },
+      "lookup": {
+        "type": "header",
+        "text": "Lookup",
+        "value": "lookup",
+        "line": 11,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "fname": "root",
+    "updated": 1640160972645,
+    "created": 1640160972645,
+    "parent": null,
+    "children": [
+      "ucXahbf0Pb8oo3qESnw3z",
+      "WRW2TcsJmqLN2UQmwmuX5",
+      "r21yQy76aVJ7VclacLucS"
+    ],
+    "data": {},
+    "contentHash": "81cb0d3a4e1cfa0acb3012ed2a32a820",
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "body": "\n# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n"
+  },
+  "vaults": [
+    {
+      "fsPath": "publicVault",
+      "remote": {
+        "type": "git",
+        "url": "https://github.com/hotSixRedBull/Dendron.git"
+      },
+      "name": "public vault"
+    }
+  ]
+}

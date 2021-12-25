@@ -1,0 +1,34 @@
+<h1 id="publish"><a aria-hidden="true" class="anchor-heading" href="#publish"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Publish</h1>
+<p>Referred <a href="https://wiki.dendron.so/notes/yg3EL1x9fEe4NMqxUC3jP/">this guide</a>.</p>
+<h2 id="setup"><a aria-hidden="true" class="anchor-heading" href="#setup"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Setup</h2>
+<h3 id="npm"><a aria-hidden="true" class="anchor-heading" href="#npm"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>NPM</h3>
+<p>In root folder,</p>
+<pre><code>npm init -y 
+npm install -g @dendronhq/dendron-cli@latest
+echo .next >> .gitignore
+npx dendron publish init
+</code></pre>
+<h3 id="yaml"><a aria-hidden="true" class="anchor-heading" href="#yaml"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>YAML</h3>
+<ul>
+<li>Run <code>Dendron: Configure (yaml)</code> command.</li>
+<li>publishing the repo named kevinslin.github.io</li>
+</ul>
+<pre><code>site:
+    siteUrl: https://kevinslin.github.io
+</code></pre>
+<ul>
+<li>publishing the repo named dendron-publish-sample</li>
+</ul>
+<pre><code>site:
+    assetsPrefix: /dendron-publish-sample
+    siteUrl: https://kevinslin.github.io
+</code></pre>
+<h3 id="build"><a aria-hidden="true" class="anchor-heading" href="#build"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Build</h3>
+<pre><code>npx dendron publish dev
+</code></pre>
+<h3 id="publish-1"><a aria-hidden="true" class="anchor-heading" href="#publish-1"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Publish</h3>
+<ul>
+<li>Run your vscode as administrator.</li>
+</ul>
+<pre><code>dendron publish export --target github
+</code></pre>
