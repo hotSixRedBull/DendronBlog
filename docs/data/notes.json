@@ -16,15 +16,15 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1640451120040,
-      "created": 1640451120040,
+      "updated": 1640451814441,
+      "created": 1640451814441,
       "parent": null,
       "children": [],
       "data": {}
     },
     "CdVfZRs5sCRx1X3GP2g8f": {
       "id": "CdVfZRs5sCRx1X3GP2g8f",
-      "title": "Root",
+      "title": "Welcome",
       "vault": {
         "fsPath": "publicVault",
         "remote": {
@@ -37,25 +37,17 @@
       "desc": "",
       "links": [],
       "anchors": {
-        "welcome-to-dendron": {
+        "welcome-to-dendron-blog": {
           "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
+          "text": "Welcome to Dendron blog!",
+          "value": "welcome-to-dendron-blog",
           "line": 7,
           "column": 0,
           "depth": 1
-        },
-        "lookup": {
-          "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
-          "column": 0,
-          "depth": 2
         }
       },
       "fname": "root",
-      "updated": 1640160972645,
+      "updated": 1640451501131,
       "created": 1640160972645,
       "parent": null,
       "children": [
@@ -63,7 +55,7 @@
         "r21yQy76aVJ7VclacLucS"
       ],
       "data": {},
-      "contentHash": "81cb0d3a4e1cfa0acb3012ed2a32a820",
+      "contentHash": "7aa0d639a2335b442afa24caee206595",
       "custom": {
         "nav_order": 0,
         "permalink": "/"
@@ -336,7 +328,7 @@
   "domains": [
     {
       "id": "CdVfZRs5sCRx1X3GP2g8f",
-      "title": "Root",
+      "title": "Welcome",
       "vault": {
         "fsPath": "publicVault",
         "remote": {
@@ -349,25 +341,17 @@
       "desc": "",
       "links": [],
       "anchors": {
-        "welcome-to-dendron": {
+        "welcome-to-dendron-blog": {
           "type": "header",
-          "text": "Welcome to Dendron",
-          "value": "welcome-to-dendron",
+          "text": "Welcome to Dendron blog!",
+          "value": "welcome-to-dendron-blog",
           "line": 7,
           "column": 0,
           "depth": 1
-        },
-        "lookup": {
-          "type": "header",
-          "text": "Lookup",
-          "value": "lookup",
-          "line": 11,
-          "column": 0,
-          "depth": 2
         }
       },
       "fname": "root",
-      "updated": 1640160972645,
+      "updated": 1640451501131,
       "created": 1640160972645,
       "parent": null,
       "children": [
@@ -375,17 +359,17 @@
         "r21yQy76aVJ7VclacLucS"
       ],
       "data": {},
-      "contentHash": "81cb0d3a4e1cfa0acb3012ed2a32a820",
+      "contentHash": "7aa0d639a2335b442afa24caee206595",
       "custom": {
         "nav_order": 0,
         "permalink": "/"
       },
-      "body": "\n# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n"
+      "body": "\n# Welcome to Dendron blog!\r\nHi, I'm Alan. Welcome to my dendron blog!\r\nThis blog is my second brain about programming.\r\n"
     }
   ],
   "noteIndex": {
     "id": "CdVfZRs5sCRx1X3GP2g8f",
-    "title": "Root",
+    "title": "Welcome",
     "vault": {
       "fsPath": "publicVault",
       "remote": {
@@ -398,25 +382,17 @@
     "desc": "",
     "links": [],
     "anchors": {
-      "welcome-to-dendron": {
+      "welcome-to-dendron-blog": {
         "type": "header",
-        "text": "Welcome to Dendron",
-        "value": "welcome-to-dendron",
+        "text": "Welcome to Dendron blog!",
+        "value": "welcome-to-dendron-blog",
         "line": 7,
         "column": 0,
         "depth": 1
-      },
-      "lookup": {
-        "type": "header",
-        "text": "Lookup",
-        "value": "lookup",
-        "line": 11,
-        "column": 0,
-        "depth": 2
       }
     },
     "fname": "root",
-    "updated": 1640160972645,
+    "updated": 1640451501131,
     "created": 1640160972645,
     "parent": null,
     "children": [
@@ -424,12 +400,12 @@
       "r21yQy76aVJ7VclacLucS"
     ],
     "data": {},
-    "contentHash": "81cb0d3a4e1cfa0acb3012ed2a32a820",
+    "contentHash": "7aa0d639a2335b442afa24caee206595",
     "custom": {
       "nav_order": 0,
       "permalink": "/"
     },
-    "body": "\n# Welcome to Dendron\r\n\r\nThis is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.\r\n\r\n## Lookup\r\n\r\nThis section contains useful links to related resources.\r\n\r\n- [Getting Started Guide](https://link.dendron.so/6b25)\r\n- [Discord](https://link.dendron.so/6b23)\r\n- [Home Page](https://wiki.dendron.so/)\r\n- [Github](https://link.dendron.so/6b24)\r\n- [Developer Docs](https://docs.dendron.so/)\r\n"
+    "body": "\n# Welcome to Dendron blog!\r\nHi, I'm Alan. Welcome to my dendron blog!\r\nThis blog is my second brain about programming.\r\n"
   },
   "vaults": [
     {
