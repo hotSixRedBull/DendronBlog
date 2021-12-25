@@ -16,8 +16,8 @@
       "links": [],
       "anchors": {},
       "fname": "403",
-      "updated": 1640449827881,
-      "created": 1640449827881,
+      "updated": 1640451120040,
+      "created": 1640451120040,
       "parent": null,
       "children": [],
       "data": {}
@@ -59,7 +59,6 @@
       "created": 1640160972645,
       "parent": null,
       "children": [
-        "ucXahbf0Pb8oo3qESnw3z",
         "WRW2TcsJmqLN2UQmwmuX5",
         "r21yQy76aVJ7VclacLucS"
       ],
@@ -332,159 +331,6 @@
       "data": {},
       "contentHash": "2dcb1c8a2d4244a161fa9916fcf2a5ee",
       "custom": {}
-    },
-    "ucXahbf0Pb8oo3qESnw3z": {
-      "id": "ucXahbf0Pb8oo3qESnw3z",
-      "title": "Daily",
-      "vault": {
-        "fsPath": "publicVault",
-        "remote": {
-          "type": "git",
-          "url": "https://github.com/hotSixRedBull/Dendron.git"
-        },
-        "name": "public vault"
-      },
-      "type": "note",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "fname": "daily",
-      "updated": 1640447126378,
-      "created": 1640447126378,
-      "parent": "CdVfZRs5sCRx1X3GP2g8f",
-      "children": [
-        "kS3EuPVP1lbgWVXzDDuxW"
-      ],
-      "data": {},
-      "contentHash": "35665ce42fe93a84e1bc93e39045af35",
-      "stub": false,
-      "custom": {
-        "stub": true
-      }
-    },
-    "kS3EuPVP1lbgWVXzDDuxW": {
-      "id": "kS3EuPVP1lbgWVXzDDuxW",
-      "title": "Journal",
-      "vault": {
-        "fsPath": "publicVault",
-        "remote": {
-          "type": "git",
-          "url": "https://github.com/hotSixRedBull/Dendron.git"
-        },
-        "name": "public vault"
-      },
-      "type": "note",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "fname": "daily.journal",
-      "updated": 1640447126378,
-      "created": 1640447126378,
-      "parent": "ucXahbf0Pb8oo3qESnw3z",
-      "children": [
-        "qTp6FiUe7aQb9NKoqwf8l"
-      ],
-      "data": {},
-      "contentHash": "e9d119f45125b32228b2c006130a71cc",
-      "stub": false,
-      "custom": {
-        "stub": true
-      }
-    },
-    "qTp6FiUe7aQb9NKoqwf8l": {
-      "id": "qTp6FiUe7aQb9NKoqwf8l",
-      "title": "2021",
-      "vault": {
-        "fsPath": "publicVault",
-        "remote": {
-          "type": "git",
-          "url": "https://github.com/hotSixRedBull/Dendron.git"
-        },
-        "name": "public vault"
-      },
-      "type": "note",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "fname": "daily.journal.2021",
-      "updated": 1640447126378,
-      "created": 1640447126378,
-      "parent": "kS3EuPVP1lbgWVXzDDuxW",
-      "children": [
-        "HEWH1ostO0itvMLIP9YBs"
-      ],
-      "data": {},
-      "contentHash": "d7557d5bda933029bc6edf646ca35337",
-      "stub": false,
-      "custom": {
-        "stub": true
-      }
-    },
-    "HEWH1ostO0itvMLIP9YBs": {
-      "id": "HEWH1ostO0itvMLIP9YBs",
-      "title": "12",
-      "vault": {
-        "fsPath": "publicVault",
-        "remote": {
-          "type": "git",
-          "url": "https://github.com/hotSixRedBull/Dendron.git"
-        },
-        "name": "public vault"
-      },
-      "type": "note",
-      "desc": "",
-      "links": [],
-      "anchors": {},
-      "fname": "daily.journal.2021.12",
-      "updated": 1640447126378,
-      "created": 1640447126378,
-      "parent": "qTp6FiUe7aQb9NKoqwf8l",
-      "children": [
-        "4FwlszdZ3b7vP6RHJER0O"
-      ],
-      "data": {},
-      "contentHash": "1f78e3f393b66ed1903bd9e8c78cfe4f",
-      "stub": false,
-      "custom": {
-        "stub": true
-      }
-    },
-    "4FwlszdZ3b7vP6RHJER0O": {
-      "id": "4FwlszdZ3b7vP6RHJER0O",
-      "title": "2021-12-25",
-      "vault": {
-        "fsPath": "publicVault",
-        "remote": {
-          "type": "git",
-          "url": "https://github.com/hotSixRedBull/Dendron.git"
-        },
-        "name": "public vault"
-      },
-      "type": "note",
-      "desc": "",
-      "links": [],
-      "anchors": {
-        "todo": {
-          "type": "header",
-          "text": "TODO",
-          "value": "todo",
-          "line": 10,
-          "column": 0,
-          "depth": 1
-        }
-      },
-      "fname": "daily.journal.2021.12.25",
-      "updated": 1640445350005,
-      "created": 1640440752972,
-      "parent": "HEWH1ostO0itvMLIP9YBs",
-      "children": [],
-      "data": {},
-      "contentHash": "58f1625632aefa610b261f9f6d0ba4cb",
-      "custom": {
-        "traitIds": [
-          "journalNote"
-        ]
-      }
     }
   },
   "domains": [
@@ -525,7 +371,6 @@
       "created": 1640160972645,
       "parent": null,
       "children": [
-        "ucXahbf0Pb8oo3qESnw3z",
         "WRW2TcsJmqLN2UQmwmuX5",
         "r21yQy76aVJ7VclacLucS"
       ],
@@ -575,7 +420,6 @@
     "created": 1640160972645,
     "parent": null,
     "children": [
-      "ucXahbf0Pb8oo3qESnw3z",
       "WRW2TcsJmqLN2UQmwmuX5",
       "r21yQy76aVJ7VclacLucS"
     ],
