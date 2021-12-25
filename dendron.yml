@@ -15,10 +15,6 @@ site:
     description: Personal knowledge space
     siteLastModified: true
     gh_edit_branch: main
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - vault
 commands:
     lookup:
         note:
@@ -38,7 +34,11 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: vault
+            fsPath: publicValut
+            remote:
+                type: git
+                url: 'https://github.com/hotSixRedBull/Dendron.git'
+            name: public vault
     journal:
         dailyDomain: daily
         name: journal
