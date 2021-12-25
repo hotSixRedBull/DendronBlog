@@ -1,20 +1,10 @@
 ---
 id: CdVfZRs5sCRx1X3GP2g8f
-title: Root
+title: Welcome
 desc: ''
-updated: 1640160972645
+updated: 1640451501131
 created: 1640160972645
 ---
-# Welcome to Dendron
-
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
-
-## Lookup
-
-This section contains useful links to related resources.
-
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+# Welcome to Dendron blog!
+Hi, I'm Alan. Welcome to my dendron blog!
+This blog is my second brain about programming.

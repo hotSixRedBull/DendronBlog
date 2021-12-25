@@ -14,9 +14,9 @@ site:
     title: Dendron
     description: Personal knowledge space
     siteLastModified: true
-    gh_edit_branch: main
+    gh_edit_branch: master
     siteUrl: https://hotsixredbull.github.io
-    assetsPrefix: /DendronBlog
+    assetsPrefix: /dendron-blog
 commands:
     lookup:
         note:
